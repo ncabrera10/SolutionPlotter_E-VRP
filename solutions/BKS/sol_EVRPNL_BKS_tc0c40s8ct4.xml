@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solution instance="tc0c40s8ct4" method="ILS/Matheuristic - Froger et al. (2018)">
+  <route id="0">
+    <sequence>
+      <node id="0" />
+      <node id="10" />
+      <node id="35" />
+      <node id="16" />
+      <node id="28" />
+      <node id="1" />
+      <node id="38" />
+      <node id="43">
+        <wait>0.0</wait>
+        <charge>9647.254249957043</charge>
+      </node>
+      <node id="20" />
+      <node id="8" />
+      <node id="21" />
+      <node id="0" />
+    </sequence>
+    <start_time>0.0</start_time>
+  </route>
+  <route id="1">
+    <sequence>
+      <node id="0" />
+      <node id="48">
+        <wait>0.0</wait>
+        <charge>3614.5017457807007</charge>
+      </node>
+      <node id="14" />
+      <node id="12" />
+      <node id="13" />
+      <node id="40" />
+      <node id="26" />
+      <node id="41">
+        <wait>0.0</wait>
+        <charge>10827.538902291346</charge>
+      </node>
+      <node id="39" />
+      <node id="30" />
+      <node id="0" />
+    </sequence>
+    <start_time>0.0</start_time>
+  </route>
+  <route id="2">
+    <sequence>
+      <node id="0" />
+      <node id="11" />
+      <node id="9" />
+      <node id="24" />
+      <node id="23" />
+      <node id="19" />
+      <node id="5" />
+      <node id="7" />
+      <node id="48">
+        <wait>0.0</wait>
+        <charge>5393.3184313975835</charge>
+      </node>
+      <node id="2" />
+      <node id="18" />
+      <node id="29" />
+      <node id="4" />
+      <node id="0" />
+    </sequence>
+    <start_time>0.0</start_time>
+  </route>
+  <route id="3">
+    <sequence>
+      <node id="0" />
+      <node id="34" />
+      <node id="42">
+        <wait>0.0</wait>
+        <charge>12545.981461246021</charge>
+      </node>
+      <node id="37" />
+      <node id="3" />
+      <node id="33" />
+      <node id="15" />
+      <node id="45">
+        <wait>0.0</wait>
+        <charge>5749.408665245589</charge>
+      </node>
+      <node id="0" />
+    </sequence>
+    <start_time>0.0</start_time>
+  </route>
+  <route id="4">
+    <sequence>
+      <node id="0" />
+      <node id="45">
+        <wait>0.0</wait>
+        <charge>3953.0333485789743</charge>
+      </node>
+      <node id="36" />
+      <node id="17" />
+      <node id="31" />
+      <node id="25" />
+      <node id="22" />
+      <node id="6" />
+      <node id="45">
+        <wait>0.0</wait>
+        <charge>6443.916252089625</charge>
+      </node>
+      <node id="27" />
+      <node id="32" />
+      <node id="0" />
+    </sequence>
+    <start_time>0.0</start_time>
+  </route>
+</solution>

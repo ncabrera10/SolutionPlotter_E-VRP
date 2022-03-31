@@ -1,0 +1,13 @@
+name: CDPP
+title: CDPP
+username:
+account: nicolascabrera
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5486538
+bundleId: 5538949
+url: https://nicolascabrera.shinyapps.io/CDPP/
+when: 1643897699.12544
+lastSyncTime: 1643897699.12544
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solution instance="tc1c10s2ct4" method="ILS/Matheuristic - Froger et al. (2018)">
+  <route id="0">
+    <sequence>
+      <node id="0" />
+      <node id="5" />
+      <node id="11">
+        <wait>0.0</wait>
+        <charge>6897.793579610434</charge>
+      </node>
+      <node id="9" />
+      <node id="3" />
+      <node id="11">
+        <wait>0.0</wait>
+        <charge>6539.673436410108</charge>
+      </node>
+      <node id="7" />
+      <node id="0" />
+    </sequence>
+    <start_time>0.0</start_time>
+  </route>
+  <route id="1">
+    <sequence>
+      <node id="0" />
+      <node id="10" />
+      <node id="8" />
+      <node id="2" />
+      <node id="1" />
+      <node id="12">
+        <wait>0.0</wait>
+        <charge>14549.386716523852</charge>
+      </node>
+      <node id="4" />
+      <node id="6" />
+      <node id="0" />
+    </sequence>
+    <start_time>0.0</start_time>
+  </route>
+</solution>

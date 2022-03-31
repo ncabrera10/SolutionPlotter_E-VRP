@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solution instance="tc2c20s3ct0" method="ILS/Matheuristic - Froger et al. (2018)">
+  <route id="0">
+    <sequence>
+      <node id="0" />
+      <node id="21">
+        <wait>0.0</wait>
+        <charge>2154.151060484419</charge>
+      </node>
+      <node id="2" />
+      <node id="1" />
+      <node id="3" />
+      <node id="23">
+        <wait>0.0</wait>
+        <charge>9669.3948897209</charge>
+      </node>
+      <node id="19" />
+      <node id="20" />
+      <node id="0" />
+    </sequence>
+    <start_time>0.0</start_time>
+  </route>
+  <route id="1">
+    <sequence>
+      <node id="0" />
+      <node id="21">
+        <wait>0.0</wait>
+        <charge>6540.843954100199</charge>
+      </node>
+      <node id="5" />
+      <node id="4" />
+      <node id="6" />
+      <node id="14" />
+      <node id="22">
+        <wait>0.0</wait>
+        <charge>10380.264588121914</charge>
+      </node>
+      <node id="13" />
+      <node id="0" />
+    </sequence>
+    <start_time>0.0</start_time>
+  </route>
+  <route id="2">
+    <sequence>
+      <node id="0" />
+      <node id="22">
+        <wait>0.0</wait>
+        <charge>9361.791707499788</charge>
+      </node>
+      <node id="8" />
+      <node id="7" />
+      <node id="9" />
+      <node id="16" />
+      <node id="18" />
+      <node id="21">
+        <wait>0.0</wait>
+        <charge>7385.384637918502</charge>
+      </node>
+      <node id="0" />
+    </sequence>
+    <start_time>0.0</start_time>
+  </route>
+  <route id="3">
+    <sequence>
+      <node id="0" />
+      <node id="17" />
+      <node id="22">
+        <wait>0.0</wait>
+        <charge>7696.037445107492</charge>
+      </node>
+      <node id="15" />
+      <node id="10" />
+      <node id="12" />
+      <node id="11" />
+      <node id="0" />
+    </sequence>
+    <start_time>0.0</start_time>
+  </route>
+</solution>

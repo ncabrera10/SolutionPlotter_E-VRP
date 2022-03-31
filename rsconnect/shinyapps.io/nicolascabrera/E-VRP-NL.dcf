@@ -1,0 +1,13 @@
+name: E-VRP-NL
+title: E-VRP-NL
+username:
+account: nicolascabrera
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5961078
+bundleId: 5747318
+url: https://nicolascabrera.shinyapps.io/E-VRP-NL/
+when: 1648679956.59363
+lastSyncTime: 1648679956.59363
+asMultiple: FALSE
+asStatic: FALSE

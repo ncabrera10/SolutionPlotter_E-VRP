@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solution instance="tc1c20s4cf3" method="Iterated local search - Froger et al. (2018)">
+  <route id="0">
+    <sequence>
+      <node id="0" />
+      <node id="9" />
+      <node id="10" />
+      <node id="23">
+        <wait>0.0</wait>
+        <charge>3663.8976354295846</charge>
+      </node>
+      <node id="4" />
+      <node id="12" />
+      <node id="3" />
+      <node id="1" />
+      <node id="2" />
+      <node id="0" />
+    </sequence>
+    <start_time>0.0</start_time>
+  </route>
+  <route id="1">
+    <sequence>
+      <node id="0" />
+      <node id="13" />
+      <node id="22">
+        <wait>0.0</wait>
+        <charge>9271.15535925336</charge>
+      </node>
+      <node id="15" />
+      <node id="17" />
+      <node id="20" />
+      <node id="14" />
+      <node id="23">
+        <wait>0.0</wait>
+        <charge>6226.549631417053</charge>
+      </node>
+      <node id="0" />
+    </sequence>
+    <start_time>0.0</start_time>
+  </route>
+  <route id="2">
+    <sequence>
+      <node id="0" />
+      <node id="22">
+        <wait>0.0</wait>
+        <charge>1217.451119987505</charge>
+      </node>
+      <node id="19" />
+      <node id="18" />
+      <node id="6" />
+      <node id="5" />
+      <node id="8" />
+      <node id="7" />
+      <node id="11" />
+      <node id="16" />
+      <node id="21">
+        <wait>0.0</wait>
+        <charge>9669.95669587001</charge>
+      </node>
+      <node id="0" />
+    </sequence>
+    <start_time>0.0</start_time>
+  </route>
+</solution>
